@@ -1,0 +1,86 @@
+,Topic,Count,Name_1,Topic,Count,Name_2,Model1_list,Model2_list,Intersection,Union
+0,-1,2365,-1_gun_dont_protect_like,-1.0,1747.0,-1_gun_peopl_right_get,"['-1', 'gun', 'dont', 'protect', 'like']","['-1', 'gun', 'peopl', 'right', 'get']",2,8
+1,0,303,0_http_tco_freenrent_nhttp,0.0,380.0,0_school_children_teacher_kid,"['0', 'http', 'tco', 'freenrent', 'nhttp']","['0', 'school', 'children', 'teacher', 'kid']",1,9
+2,1,115,1_kavanaugh_brett_kill_near,1.0,366.0,1_http_tco_freenrent_statehoodpr,"['1', 'kavanaugh', 'brett', 'kill', 'near']","['1', 'http', 'tco', 'freenrent', 'statehoodpr']",1,9
+3,2,106,2_democrat_strategist_republican_care,2.0,187.0,2_idiot_stupid_your_moron,"['2', 'democrat', 'strategist', 'republican', 'care']","['2', 'idiot', 'stupid', 'your', 'moron']",1,9
+4,3,101,3_republican_democrat_gun_control,3.0,104.0,3_suprem_court_justic_assassin,"['3', 'republican', 'democrat', 'gun', 'control']","['3', 'suprem', 'court', 'justic', 'assassin']",1,9
+5,4,93,4_liber_leftist_left_riot,4.0,101.0,4_weapon_gun_assault_buy,"['4', 'liber', 'leftist', 'left', 'riot']","['4', 'weapon', 'gun', 'assault', 'buy']",1,9
+6,5,71,5_zone_free_school_gun,5.0,88.0,5_door_hous_lock_kavanaugh,"['5', 'zone', 'free', 'school', 'gun']","['5', 'door', 'hous', 'lock', 'kavanaugh']",1,9
+7,6,71,6_door_hous_lock_one,6.0,85.0,6_democrat_gun_republican_control,"['6', 'door', 'hous', 'lock', 'one']","['6', 'democrat', 'gun', 'republican', 'control']",1,9
+8,7,64,7_school_kid_classroom_teacher,7.0,72.0,7_guy_good_gun_bad,"['7', 'school', 'kid', 'classroom', 'teacher']","['7', 'guy', 'good', 'gun', 'bad']",1,9
+9,8,54,8_tweet_twitter_sens_dumbest,8.0,68.0,8_murder_assassin_attempt_kill,"['8', 'tweet', 'twitter', 'sens', 'dumbest']","['8', 'murder', 'assassin', 'attempt', 'kill']",1,9
+10,9,51,9_arrest_murder_threat_attempt,9.0,67.0,9_republican_trump_southern_parti,"['9', 'arrest', 'murder', 'threat', 'attempt']","['9', 'republican', 'trump', 'southern', 'parti']",1,9
+11,10,44,10_control_gun_law_chicago,10.0,66.0,10_democrat_care_day_strategist,"['10', 'control', 'gun', 'law', 'chicago']","['10', 'democrat', 'care', 'day', 'strategist']",1,9
+12,11,41,11_school_republican_secur_democrat,11.0,64.0,11____,"['11', 'school', 'republican', 'secur', 'democrat']","['11', '', '', '', '']",1,6
+13,12,40,12_door_kavanaugh_hous_ted,12.0,62.0,12_eactli_agre_elabor_evid,"['12', 'door', 'kavanaugh', 'hous', 'ted']","['12', 'eactli', 'agre', 'elabor', 'evid']",1,9
+14,13,39,13_stupid_take_dumb_comparison,13.0,62.0,13_mental_health_ill_issu,"['13', 'stupid', 'take', 'dumb', 'comparison']","['13', 'mental', 'health', 'ill', 'issu']",1,9
+15,14,39,14_violenc_incit_polit_discours,14.0,61.0,14_paid_pay_debt_money,"['14', 'violenc', 'incit', 'polit', 'discours']","['14', 'paid', 'pay', 'debt', 'money']",1,9
+16,15,39,15_amend_nd_second_abolish,15.0,60.0,15_republican_school_democrat_children,"['15', 'amend', 'nd', 'second', 'abolish']","['15', 'republican', 'school', 'democrat', 'children']",1,9
+17,16,37,16_statehoodpr_politician_american_authoritarian,16.0,60.0,16_prayer_thought_send_kavanaugh,"['16', 'statehoodpr', 'politician', 'american', 'authoritarian']","['16', 'prayer', 'thought', 'send', 'kavanaugh']",1,9
+18,18,36,18_moron_idiot_dumbass_statement,17.0,54.0,17_arrest_cop_polic_job,"['18', 'moron', 'idiot', 'dumbass', 'statement']","['17', 'arrest', 'cop', 'polic', 'job']",0,10
+19,19,36,19_prayer_thought_send_god,18.0,53.0,18_mani_door_one_tulsi,"['19', 'prayer', 'thought', 'send', 'god']","['18', 'mani', 'door', 'one', 'tulsi']",0,10
+20,17,36,17_brett_doesnt_hous_soooo,19.0,51.0,19_tweet_twitter_dumbest_congratul,"['17', 'brett', 'doesnt', 'hous', 'soooo']","['19', 'tweet', 'twitter', 'dumbest', 'congratul']",0,10
+21,20,34,20____,20.0,41.0,20_white_racist_fascist_fascism,"['20', '', '', '', '']","['20', 'white', 'racist', 'fascist', 'fascism']",1,6
+22,21,33,21_mental_health_ill_issu,21.0,34.0,21_old_year_eleven_kid,"['21', 'mental', 'health', 'ill', 'issu']","['21', 'old', 'year', 'eleven', 'kid']",1,9
+23,22,30,22_scotu_gop_appoint_sotomayor,22.0,34.0,22_adam_evil_vile_paint,"['22', 'scotu', 'gop', 'appoint', 'sotomayor']","['22', 'adam', 'evil', 'vile', 'paint']",1,9
+24,23,30,23_eactli_hourli_eactlyth_senseless,23.0,34.0,23_threat_made_threaten_illeg,"['23', 'eactli', 'hourli', 'eactlyth', 'senseless']","['23', 'threat', 'made', 'threaten', 'illeg']",1,9
+25,24,29,24_assassin_justic_kill_attempt,24.0,33.0,24_lol_yep_wow_ok,"['24', 'assassin', 'justic', 'kill', 'attempt']","['24', 'lol', 'yep', 'wow', 'ok']",1,9
+26,25,29,25_law_break_enforc_crimin,25.0,33.0,25_dog_pet_prairi_hog,"['25', 'law', 'break', 'enforc', 'crimin']","['25', 'dog', 'pet', 'prairi', 'hog']",1,9
+27,26,29,26_gun_never_peopl_arent,28.0,29.0,28_absolut_correct_question_case,"['26', 'gun', 'never', 'peopl', 'arent']","['28', 'absolut', 'correct', 'question', 'case']",0,10
+28,27,28,27_schumer_chuck_impeach_incit,27.0,29.0,27_told_unload_na_arrest,"['27', 'schumer', 'chuck', 'impeach', 'incit']","['27', 'told', 'unload', 'na', 'arrest']",1,9
+29,28,27,28____,26.0,29.0,26_logic_argument_complic_philosophi,"['28', '', '', '', '']","['26', 'logic', 'argument', 'complic', 'philosophi']",0,7
+30,29,26,29_disgust_worst_person_vile,29.0,28.0,29_shame_sad_apolog_ridicul,"['29', 'disgust', 'worst', 'person', 'vile']","['29', 'shame', 'sad', 'apolog', 'ridicul']",1,9
+31,30,25,30_bill_pass_vote_reform,30.0,28.0,30_clown_joke_sarcasm_your,"['30', 'bill', 'pass', 'vote', 'reform']","['30', 'clown', 'joke', 'sarcasm', 'your']",1,9
+32,31,25,31_dog_prairi_pet_hog,31.0,28.0,31_tea_polic_shooter_old,"['31', 'dog', 'prairi', 'pet', 'hog']","['31', 'tea', 'polic', 'shooter', 'old']",1,9
+33,32,25,32_secur_addit_art_afford,32.0,27.0,32_beer_brett_give_qkpmcyno,"['32', 'secur', 'addit', 'art', 'afford']","['32', 'beer', 'brett', 'give', 'qkpmcyno']",1,9
+34,33,25,33_biden_hunter_vp_voter,33.0,27.0,33_mitch_mcconnel_outrag_moscow,"['33', 'biden', 'hunter', 'vp', 'voter']","['33', 'mitch', 'mcconnel', 'outrag', 'moscow']",1,9
+35,34,24,34_liter_tri_deflect_wasnt,34.0,25.0,34_time_matter_life_live,"['34', 'liter', 'tri', 'deflect', 'wasnt']","['34', 'time', 'matter', 'life', 'live']",1,9
+36,35,24,35_guy_good_bad_gun,35.0,25.0,35_age_rais_militari_old,"['35', 'guy', 'good', 'bad', 'gun']","['35', 'age', 'rais', 'militari', 'old']",1,9
+37,36,24,36_beer_keg_give_love,36.0,24.0,36_law_crimin_break_point,"['36', 'beer', 'keg', 'give', 'love']","['36', 'law', 'crimin', 'break', 'point']",1,9
+38,37,23,37_arm_guard_prevent_aliv,37.0,23.0,37_dude_guy_open_call,"['37', 'arm', 'guard', 'prevent', 'aliv']","['37', 'dude', 'guy', 'open', 'call']",1,9
+39,38,23,38_sale_background_check_buy,39.0,22.0,39_leftist_wacko_gaslight_sick,"['38', 'sale', 'background', 'check', 'buy']","['39', 'leftist', 'wacko', 'gaslight', 'sick']",0,10
+40,40,22,40_divis_wow_brain_cultist,38.0,22.0,38_ukrainian_ukrain_russia_putin,"['40', 'divis', 'wow', 'brain', 'cultist']","['38', 'ukrainian', 'ukrain', 'russia', 'putin']",0,10
+41,41,22,41_mitch_mcconnel_moscow_detest,40.0,20.0,40_protest_peac_continu_libtard,"['41', 'mitch', 'mcconnel', 'moscow', 'detest']","['40', 'protest', 'peac', 'continu', 'libtard']",0,10
+42,39,22,39_troll_russian_bot_clown,41.0,20.0,41_background_check_sale_retail,"['39', 'troll', 'russian', 'bot', 'clown']","['41', 'background', 'check', 'sale', 'retail']",0,10
+43,43,21,43_old_year_eleven_adult,42.0,20.0,42_arm_guard_weve_finger,"['43', 'old', 'year', 'eleven', 'adult']","['42', 'arm', 'guard', 'weve', 'finger']",0,10
+44,42,21,42_joke_true_list_hit,43.0,20.0,43_disgust_fetus_shameless_fart,"['42', 'joke', 'true', 'list', 'hit']","['43', 'disgust', 'fetus', 'shameless', 'fart']",0,10
+45,44,20,44_white_men_racist_supremacist,44.0,20.0,44_never_doesnt_sens_ascrib,"['44', 'white', 'men', 'racist', 'supremacist']","['44', 'never', 'doesnt', 'sens', 'ascrib']",1,9
+46,45,20,45_preciou_da_alguien_batman,45.0,20.0,45_sick_fcker_duel_cough,"['45', 'preciou', 'da', 'alguien', 'batman']","['45', 'sick', 'fcker', 'duel', 'cough']",1,9
+47,46,20,46_ignor_ignoramu_code_histori,47.0,19.0,47_amend_nd_second_right,"['46', 'ignor', 'ignoramu', 'code', 'histori']","['47', 'amend', 'nd', 'second', 'right']",0,10
+48,47,19,47_abort_clinic_unborn_treatment,46.0,19.0,46_law_enforc_maker_book,"['47', 'abort', 'clinic', 'unborn', 'treatment']","['46', 'law', 'enforc', 'maker', 'book']",0,10
+49,48,18,48_tea_invit_old_year,48.0,18.0,48_vote_voter_biden_worri,"['48', 'tea', 'invit', 'old', 'year']","['48', 'vote', 'voter', 'biden', 'worri']",1,9
+50,49,18,49_crimin_syndic_camera_corrupt,49.0,18.0,49_tyrann_govern_gov_fight,"['49', 'crimin', 'syndic', 'camera', 'corrupt']","['49', 'tyrann', 'govern', 'gov', 'fight']",1,9
+51,50,17,50_budget_school_fund_build,50.0,18.0,50_kill_illeg_abort_rifl,"['50', 'budget', 'school', 'fund', 'build']","['50', 'kill', 'illeg', 'abort', 'rifl']",1,9
+52,51,17,51_sugar_chang_attent_per,51.0,18.0,51_suprem_court_children_protect,"['51', 'sugar', 'chang', 'attent', 'per']","['51', 'suprem', 'court', 'children', 'protect']",1,9
+53,54,16,54_ar_militari_weapon_war,52.0,18.0,52_hatr_hate_rhetor_condemn,"['54', 'ar', 'militari', 'weapon', 'war']","['52', 'hatr', 'hate', 'rhetor', 'condemn']",0,10
+54,53,16,53_adam_hey_fan_concentr,53.0,17.0,53_safe_protect_read_need,"['53', 'adam', 'hey', 'fan', 'concentr']","['53', 'safe', 'protect', 'read', 'need']",1,9
+55,52,16,52_ukrainian_putin_invad_she,54.0,17.0,54_truth_true_lie_resembl,"['52', 'ukrainian', 'putin', 'invad', 'she']","['54', 'truth', 'true', 'lie', 'resembl']",0,10
+56,55,15,55_care_adamnnw_sooner_itnnjerk,56.0,16.0,56_crime_law_commit_curb,"['55', 'care', 'adamnnw', 'sooner', 'itnnjerk']","['56', 'crime', 'law', 'commit', 'curb']",0,10
+57,56,15,56_hypocrisi_hypocrit_moral_ooz,55.0,16.0,55_ball_form_shit_help,"['56', 'hypocrisi', 'hypocrit', 'moral', 'ooz']","['55', 'ball', 'form', 'shit', 'help']",0,10
+58,57,14,57_yep_ye_absolut_yessssss,57.0,15.0,57_bill_pass_reform_add,"['57', 'yep', 'ye', 'absolut', 'yessssss']","['57', 'bill', 'pass', 'reform', 'add']",1,9
+59,58,14,58_bill_scotu_pass_protect,58.0,15.0,58_politician_parti_tragedi_benefit,"['58', 'bill', 'scotu', 'pass', 'protect']","['58', 'politician', 'parti', 'tragedi', 'benefit']",1,9
+60,59,14,59_logic_argument_favor_sadli,59.0,15.0,59_swampsuit_furiou_pander_weak,"['59', 'logic', 'argument', 'favor', 'sadli']","['59', 'swampsuit', 'furiou', 'pander', 'weak']",1,9
+61,64,13,64_children_victim_everyday_kill,60.0,15.0,60_liter_number_comprehens_transcript,"['64', 'children', 'victim', 'everyday', 'kill']","['60', 'liter', 'number', 'comprehens', 'transcript']",0,10
+62,66,13,66_sound_like_nice_uneduc,61.0,15.0,61_protect_pass_children_scotu,"['66', 'sound', 'like', 'nice', 'uneduc']","['61', 'protect', 'pass', 'children', 'scotu']",0,10
+63,65,13,65_bill_pass_protect_addit,62.0,14.0,62_rape_women_accus_fals,"['65', 'bill', 'pass', 'protect', 'addit']","['62', 'rape', 'women', 'accus', 'fals']",0,10
+64,62,13,62_background_check_state_nic,63.0,14.0,63_braindamag_yall_stupid_argu,"['62', 'background', 'check', 'state', 'nic']","['63', 'braindamag', 'yall', 'stupid', 'argu']",0,10
+65,63,13,63_polic_chicago_told_actin,64.0,13.0,64_chicago_law_illinoi_abid,"['63', 'polic', 'chicago', 'told', 'actin']","['64', 'chicago', 'law', 'illinoi', 'abid']",1,9
+66,60,13,60_mcconnel_protect_swift_children,65.0,12.0,65_thoughtsandpray_opinion_think_shallow,"['60', 'mcconnel', 'protect', 'swift', 'children']","['65', 'thoughtsandpray', 'opinion', 'think', 'shallow']",0,10
+67,61,13,61_knew_alreadi_qclkzdrdf_malcolm,66.0,12.0,66_didnt_carlson_tucker_bad,"['61', 'knew', 'alreadi', 'qclkzdrdf', 'malcolm']","['66', 'didnt', 'carlson', 'tucker', 'bad']",0,10
+68,67,12,67_your_ass_ih_oygen,67.0,12.0,67_protect_firm_jk_asset,"['67', 'your', 'ass', 'ih', 'oygen']","['67', 'protect', 'firm', 'jk', 'asset']",1,9
+69,68,12,68_knife_pepper_spray_tool,68.0,12.0,68_hypocrisi_hypocrit_nnstop_wellyou,"['68', 'knife', 'pepper', 'spray', 'tool']","['68', 'hypocrisi', 'hypocrit', 'nnstop', 'wellyou']",1,9
+70,69,12,69_comprehens_word_low_rememb,69.0,11.0,69_blame_hate_readyjoy_llascdczam,"['69', 'comprehens', 'word', 'low', 'rememb']","['69', 'blame', 'hate', 'readyjoy', 'llascdczam']",1,9
+71,70,12,70_touch_stamp_checkmark_touchin,70.0,11.0,70_realli_doorstep_throat_underst,"['70', 'touch', 'stamp', 'checkmark', 'touchin']","['70', 'realli', 'doorstep', 'throat', 'underst']",1,9
+72,71,12,71_slave_southern_lincoln_progress,71.0,10.0,71_riot_rioter_took_set,"['71', 'slave', 'southern', 'lincoln', 'progress']","['71', 'riot', 'rioter', 'took', 'set']",1,9
+73,72,12,72_truth_lie_resembl_brilliant,72.0,10.0,72_none_suspici_bibl_dontduh,"['72', 'truth', 'lie', 'resembl', 'brilliant']","['72', 'none', 'suspici', 'bibl', 'dontduh']",1,9
+74,73,12,73_wrong_wtf_correct_wth,null,null,null,"['73', 'wrong', 'wtf', 'correct', 'wth']",['null'],0,6
+75,78,11,78_sick_soul_mfer_hilari,null,null,null,"['78', 'sick', 'soul', 'mfer', 'hilari']",['null'],0,6
+76,80,11,80_prayer_thought_kavanaugh_send,null,null,null,"['80', 'prayer', 'thought', 'kavanaugh', 'send']",['null'],0,6
+77,79,11,79_fals_flag_oper_deep,null,null,null,"['79', 'fals', 'flag', 'oper', 'deep']",['null'],0,6
+78,74,11,74_call_cop_report_guy,null,null,null,"['74', 'call', 'cop', 'report', 'guy']",['null'],0,6
+79,77,11,77_law_place_buy_would,null,null,null,"['77', 'law', 'place', 'buy', 'would']",['null'],0,6
+80,76,11,76_none_one_prob_redher,null,null,null,"['76', 'none', 'one', 'prob', 'redher']",['null'],0,6
+81,75,11,75_otherwis_believ_pretend_dimwit,null,null,null,"['75', 'otherwis', 'believ', 'pretend', 'dimwit']",['null'],0,6
+82,81,10,81_idiot_your_moron_vlown,null,null,null,"['81', 'idiot', 'your', 'moron', 'vlown']",['null'],0,6
+83,82,10,82_politician_precis_lee_reformnyet,null,null,null,"['82', 'politician', 'precis', 'lee', 'reformnyet']",['null'],0,6
+84,83,10,83_regul_militia_bear_shall,null,null,null,"['83', 'regul', 'militia', 'bear', 'shall']",['null'],0,6
